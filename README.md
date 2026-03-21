@@ -163,16 +163,15 @@ Options for scan:
 
 ---
 
-## Part of the LeakHound Ecosystem
-
-`envleaks` is part of [LeakHound](https://github.com/ExploitCraft/leakhound) — a unified secret hunting toolkit.
+## Part of the HackerInc/ExploitCraft Ecosystem
 
 | Tool | Description |
 |------|-------------|
 | **envleaks** | Codebase & git history scanner (this repo) |
 | [gitdork](https://github.com/ExploitCraft/gitdork) | Google/Shodan dork generator |
 | [wifi-passview](https://github.com/ExploitCraft/wifi-passview) | Cross-platform WiFi credential dumper |
-| [leakhound](https://github.com/ExploitCraft/leakhound) | Unified CLI wrapping all three |
+| [ReconNinja](https://github.com/ExploitCraft/ReconNinja) | ReconNinja v6 — 21-phase recon framework |
+| [VaultHound](https://github.com/ExploitCraft/VaultHound) | Secret & credential scanner |
 
 ---
 
