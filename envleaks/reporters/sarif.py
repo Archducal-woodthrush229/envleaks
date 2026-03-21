@@ -74,7 +74,7 @@ def to_sarif(result: ScanResult, root: Path | None = None) -> dict:
                 "tool": {
                     "driver": {
                         "name": "envleaks",
-                        "version": "0.1.0",
+                        "version": "1.0.0",
                         "informationUri": "https://github.com/ExploitCraft/envleaks",
                         "rules": rules,
                     }

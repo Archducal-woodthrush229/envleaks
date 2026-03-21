@@ -32,7 +32,7 @@ def _parse_severities(ctx, param, value) -> list[str] | None:
 
 
 @click.group()
-@click.version_option(version="0.1.0", prog_name="envleaks")
+@click.version_option(version="1.0.0", prog_name="envleaks")
 def main():
     """
     \b

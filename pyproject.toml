@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "envleaks"
-version = "0.1.0"
+version = "1.0.0"
 description = "Scan codebases, git history, and Docker images for accidentally exposed secrets"
 readme = "README.md"
 license = { text = "MIT" }
